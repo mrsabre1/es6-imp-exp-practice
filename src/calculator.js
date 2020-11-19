@@ -14,5 +14,4 @@ function divide(n1, n2) {
   return n1 / n2;
 }
 
-export default add;
-export {multiply, subtract, divide};
+export { add, multiply, subtract, divide };
